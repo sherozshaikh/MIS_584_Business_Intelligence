@@ -14,13 +14,13 @@ To overcome these obstacles, the goal of this project is to create and put into 
   - Reduce costs and increase productivity by finding inefficient areas in the business and automating manual tasks.
   - Use data to personalize user experiences, expedite guest feedback, and enhance the booking process as a whole to increase customer happiness.
 
- - The report gives a details outlook on the problem statement with a solution. [Project Report](MIS_584_Business_Intelligence/FINAL PROJECT REPORT_GRP 7-1.pdf) & [Presentation Sketch](MIS_584_Business_Intelligence/MIS 584 GROUP 7 - Final Presentation.pptx)
+ - The report gives a details outlook on the problem statement with a solution. [Project Report](Airbnb_Report.pdf) & [Presentation Sketch](Airbnb_Presentation.pptx)
 
 ## Dashboards
 The project includes two Tableau dashboards, each providing unique insights into Airbnb data.
 
 ### Tactical Dashboard
-This [dashboard](Airbnb Dashboards_Tactical_V2.2-1.twbx) offers a high-level view of key metrics, including booking trends, popular locations, and revenue generation. It is designed to provide strategic insights to guide business decisions.
+This [dashboard](Airbnb_Dashboards_Tactical_V2.2.1.twbx) offers a high-level view of key metrics, including booking trends, popular locations, and revenue generation. It is designed to provide strategic insights to guide business decisions.
 
 - **Features**:
   - Booking trends over time
@@ -28,7 +28,7 @@ This [dashboard](Airbnb Dashboards_Tactical_V2.2-1.twbx) offers a high-level vie
   - Revenue analysis by property type
 
 ### Operational Dashboard
-This [dashboard](Airbnb Dashboards_Operational_V2.2-1.twbx) focuses on operational metrics that are essential for managing day-to-day business operations. It includes data on occupancy rates, customer reviews, and property management.
+This [dashboard](Airbnb_Dashboards_Operational_V2.2.1.twbx) focuses on operational metrics that are essential for managing day-to-day business operations. It includes data on occupancy rates, customer reviews, and property management.
 
 - **Features**:
   - Occupancy rates by location
