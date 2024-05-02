@@ -18,7 +18,7 @@ To overcome these obstacles, the goal of this project is to create and put into 
 The project includes two Tableau dashboards, each providing unique insights into Airbnb data.
 
 ### Tactical Dashboard
-This [dashboard](MIS_584_Business_Intelligence/Airbnb Dashboards_Tactical_V2.2-1.twbx) offers a high-level view of key metrics, including booking trends, popular locations, and revenue generation. It is designed to provide strategic insights to guide business decisions.
+This [dashboard](Airbnb Dashboards_Tactical_V2.2-1.twbx) offers a high-level view of key metrics, including booking trends, popular locations, and revenue generation. It is designed to provide strategic insights to guide business decisions.
 
 - **Features**:
   - Booking trends over time
@@ -26,7 +26,7 @@ This [dashboard](MIS_584_Business_Intelligence/Airbnb Dashboards_Tactical_V2.2-1
   - Revenue analysis by property type
 
 ### Operational Dashboard
-This [dashboard](MIS_584_Business_Intelligence/Airbnb Dashboards_Operational_V2.2-1.twbx) focuses on operational metrics that are essential for managing day-to-day business operations. It includes data on occupancy rates, customer reviews, and property management.
+This [dashboard](Airbnb Dashboards_Operational_V2.2-1.twbx) focuses on operational metrics that are essential for managing day-to-day business operations. It includes data on occupancy rates, customer reviews, and property management.
 
 - **Features**:
   - Occupancy rates by location
@@ -40,9 +40,9 @@ The regression analysis component of this project aims to identify factors that 
   - Tableau for visualization
   - Python for regression analysis
     - ML Models
-    - **Linear Model**: Assess linearity and simplicity. Offers interpretable coefficients, aiding understanding.
-    - **Decision Tree**: Capture non-linearity effectively. Provide intuitive decision-making insights. Robust to outliers and mixed data types.
-    - **Naive Bayes**: Employ probabilistic modeling efficiently. Simple and interpretable with reasonable assumptions.
+      - **Linear Model**: Assess linearity and simplicity. Offers interpretable coefficients, aiding understanding.
+      - **Decision Tree**: Capture non-linearity effectively. Provide intuitive decision-making insights. Robust to outliers and mixed data types.
+      - **Naive Bayes**: Employ probabilistic modeling efficiently. Simple and interpretable with reasonable assumptions.
   
 - **Findings**:
   - Key predictors of booking rates
