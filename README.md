@@ -17,20 +17,20 @@ To overcome these obstacles, the goal of this project is to create and put into 
 ## Dashboards
 The project includes two Tableau dashboards, each providing unique insights into Airbnb data.
 
-### [Tactical Dashboard](MIS_584_Business_Intelligence/Airbnb Dashboards_Tactical_V2.2-1.twbx)
-This dashboard offers a high-level view of key metrics, including booking trends, popular locations, and revenue generation. It is designed to provide strategic insights to guide business decisions.
+### Tactical Dashboard
+This [dashboard](MIS_584_Business_Intelligence/Airbnb Dashboards_Tactical_V2.2-1.twbx) offers a high-level view of key metrics, including booking trends, popular locations, and revenue generation. It is designed to provide strategic insights to guide business decisions.
 
 - **Features**:
   - Booking trends over time
   - Top locations by booking volume
   - Revenue analysis by property type
 
-### [Operational Dashboard](MIS_584_Business_Intelligence/Airbnb Dashboards_Operational_V2.2-1.twbx)
-This dashboard focuses on operational metrics that are essential for managing day-to-day business operations. It includes data on occupancy rates, customer reviews, and property management.
+### Operational Dashboard
+This [dashboard](MIS_584_Business_Intelligence/Airbnb Dashboards_Operational_V2.2-1.twbx) focuses on operational metrics that are essential for managing day-to-day business operations. It includes data on occupancy rates, customer reviews, and property management.
 
 - **Features**:
   - Occupancy rates by location
-  - Customer review analysis
+  - Customer Review analysis
   - Maintenance and property management metrics
 
 ## Regression Analysis
