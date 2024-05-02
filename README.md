@@ -1,5 +1,7 @@
-# MIS_584_Business_Intelligence
-WPI MIS 584 Business Intelligence
+## University & Course Details
+- Course: MIS 584 - Business Intelligence
+- University: Worcester Polytechnic Institute
+- Semester: Spring 2024
 
 ## Project Overview
 This project is focused on analyzing Airbnb data to gain insights into tactical and operational aspects of the business. The analysis involves the creation of Tableau dashboards and regression analysis to extract key information and trends.
