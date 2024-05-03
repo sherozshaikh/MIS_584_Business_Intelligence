@@ -1,4 +1,4 @@
-# University & Course Details
+# 🎓 University & Course Details
 - **Course**: MIS 584 - Business Intelligence
 - **University**: Worcester Polytechnic Institute
 - **Semester**: Spring 2024
